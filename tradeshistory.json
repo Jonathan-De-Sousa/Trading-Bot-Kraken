@@ -1,0 +1,36 @@
+{
+    "error": [],
+    "result": {
+        "trades": {
+            "1633878305.590238": {
+                "ordertxid": "OQCLML-BW3P3-BUCMWZ",
+                "postxid": "TKH2SE-M7IF5-CFI7LT",
+                "pair": "XETHZGBP",
+                "time": 1633878305.590238,
+                "type": "buy",
+                "ordertype": "market",
+                "price": "2601.41",
+                "cost": "130.0705",
+                "fee": "0.3381833",
+                "vol": "0.05000000",
+                "margin": "0.00000",
+                "misc": ""
+            },
+            "1633878306.731122": {
+                "ordertxid": "OQCLML-BW3P3-BUCMWZ",
+                "postxid": "TKH2SE-M7IF5-CFI7LT",
+                "pair": "XETHZGBP",
+                "time": 1633878306.715495,
+                "type": "sell",
+                "ordertype": "market",
+                "price": "2601.41",
+                "cost": "130.0705",
+                "fee": "0.3381833",
+                "vol": "0.05000000",
+                "margin": "0.00000",
+                "misc": ""
+            }
+        },
+        "count": 1
+    }
+}
