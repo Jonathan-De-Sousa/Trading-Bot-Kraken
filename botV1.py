@@ -6,7 +6,7 @@ Trading Bot
                     - verify paper trader's trading history matches crypto & fiat balances
 * Trading strategy: simple (not recommended in reality)
 
-Created on Thu Jul 22 11:45:49 2021
+Created on Thu Jul 22 11:45:48 2021
 Written by: Jonathan De Sousa 
 """
 
